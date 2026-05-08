@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Jeferson! 👋
 
-<!--
-**JefersonFCampos/JefersonFCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas (UNINTER)**. 
+Sou apaixonado por resolver problemas através do código, com foco em Python, Java e Bancos de Dados.
 
-Here are some ideas to get you started:
+## 🛠️ No que estou trabalhando:
+- 🐍 Desenvolvimento de sistemas desktop modulares com **Python & SQLite**.
+- ☕ Práticas avançadas de POO com **Java**.
+- 🗳️ Atividade Extensionista sobre **IA e Ética Digital** nas eleições.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Habilidades:
+- **Linguagens:** Python, Java, JavaScript.
+- **Front-end:** HTML, CSS, Tkinter.
+- **Dados:** SQL (MySQL, SQLite).
+- **Ferramentas:** Git, GitHub, VS Code, PyCharm, Linux.
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/jeferson-fassbinder-891079375/)
+- [Meu Currículo/Portfólio](seu-link-aqui)
