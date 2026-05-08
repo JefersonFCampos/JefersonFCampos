@@ -17,8 +17,3 @@ Sou apaixonado por resolver problemas através do código, com foco em Python, J
 ## 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/jeferson-fassbinder-891079375/)
 - [Meu Currículo/Portfólio](seu-link-aqui)
-
-
-
-- ![Status do GitHub](JefersonFCampos)
-- ![Top Langs](JefersonFCampos)
