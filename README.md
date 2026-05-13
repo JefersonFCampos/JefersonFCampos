@@ -10,7 +10,7 @@ Sou apaixonado por resolver problemas através do código, com foco em Python, J
 
 ## 🚀 Minhas Habilidades:
 - **Linguagens:** Python, Java, JavaScript.
-- **Front-end:** HTML, CSS, Tkinter.
+- **Front-end:** HTML, CSS, CustomTkinter.
 - **Dados:** SQL (MySQL, SQLite).
 - **Ferramentas:** Git, GitHub, VS Code, PyCharm, Linux.
 
